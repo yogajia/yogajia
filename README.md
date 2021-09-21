@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogajia
 - 👀 I’m interested in something interested and cool.
 - 🌱 I’m currently learning how to code,and study software programming.
-- 💞️ I’m looking to collaborate on someone who want to develop a software.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .you can send email to 3370507176@qq.com.
 
 <!---
